@@ -175,6 +175,3 @@ def search_area(MNI_coords):
             areas.append(DB[i].anatomy[graylevel-1])
     return areas
 
-
-MNI_coords = np.array([2, 4, 60])
-plot_coordinates(MNI_coords, input_coordinate = 'mni', colored = True)
