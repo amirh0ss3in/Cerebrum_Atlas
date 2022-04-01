@@ -9,7 +9,7 @@ import scipy.io as sio
     https://www.alivelearn.net/?p=1456
 """
 
-cwd = os.path.dirname(os.path.abspath(__file__))+'\\'
+cwd = os.path.dirname(os.path.abspath(__file__))+'/'
 
 def _spm_matrix(p):
     """Matrix transformation.
