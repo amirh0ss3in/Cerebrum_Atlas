@@ -4,7 +4,10 @@ import os
 import matplotlib.gridspec as gridspec
 import scipy.io as sio
 
-""" Sources: 
+""" Authours:
+        Amirhossein Rezaei
+        Paria Norouzi Nik
+    Sources: 
     https://bioimagesuiteweb.github.io/webapp/mni2tal.html
     https://www.alivelearn.net/?p=1456
 """
